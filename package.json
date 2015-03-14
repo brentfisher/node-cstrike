@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/brentfisher/node-cstrike/issues"
   },
-  "homepage": "https://github.com/brentfisher/node-cstrike"
+  "homepage": "https://github.com/brentfisher/node-cstrike",
+  "dependencies": {
+    "protobufjs": "^4.0.0-b2"
+  }
 }
